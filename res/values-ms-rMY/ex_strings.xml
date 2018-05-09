@@ -19,6 +19,7 @@
         individual item in the download list.  [CHAR LIMIT=24] -->
   <!-- Representation of download progress percentage when paused. [CHAR LIMIT=24] -->
   <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
+  <string name="button_resume_download">Sambung semula</string>
   <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
   <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
 </resources>
